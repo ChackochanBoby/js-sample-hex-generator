@@ -1,5 +1,5 @@
 const btnEl = document.getElementById("btn")
-btnEl.addEventListener("click", changeColor)
+//btnEl.addEventListener("click", changeColor)
 
 const spanEl = document.getElementById("color")
 const bodyEl = document.getElementById("body")
